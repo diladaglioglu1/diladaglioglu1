@@ -17,5 +17,9 @@ I am a 3rd-year **Software Engineering** student at **Istinye University**. I fo
 - [LinkedIn](https://www.linkedin.com/in/diladgl)
 - [Email](mailto:diladaglioglu@gmail.com)
 
+### 📊 GitHub Stats
+![Dila's GitHub stats](https://github-readme-stats.vercel.app/api?username=diladaglioglu1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diladaglioglu1&layout=compact&theme=radical)
+
 ---
  *Building clean, scalable, and efficient code one commit at a time.*
