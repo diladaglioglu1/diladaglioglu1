@@ -14,7 +14,7 @@ I am a 3rd-year **Software Engineering** student at **Istinye University**. I fo
 - **Dynamic UI Management:** Modern interface designs and state management using CustomTkinter.
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/diladal)
+- [LinkedIn](https://www.linkedin.com/in/diladgl)
 - [Email](mailto:diladaglioglu@gmail.com)
 
 ---
